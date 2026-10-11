@@ -25,7 +25,7 @@ VoxSheet lets a teacher or class representative mark attendance, register studen
 15. [Future Scope and Roadmap](#15-future-scope-and-roadmap)
 16. [Expected Outcomes](#16-expected-outcomes)
 17. [Project Structure](#17-project-structure)
-18. [Author](#19-author-and-license)
+18. [Author](#18-author)
 
 ---
 
